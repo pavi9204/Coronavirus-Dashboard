@@ -1,0 +1,46 @@
+{
+  "api": [
+    {
+      "name": "Rajesh",
+      "gender": "Male",
+      "age": 33,
+      "address": "AKS Nagar",
+      "city": "Chennai",
+      "country": "India",
+      "status": "Recovered",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Raj",
+      "gender": "Male",
+      "age": 24,
+      "address": "AKS Nagar",
+      "city": "Chennai",
+      "country": "India",
+      "status": "Positive",
+      "updated": "2020-04-01T15:26:18.806Z",
+      "__v": 0
+    },
+    {
+      "name": "Vishnu",
+      "gender": "Male",
+      "age": 32,
+      "address": "MR Nagar",
+      "city": "Bangalore",
+      "country": "India",
+      "status": "Recovered",
+      "id": 4
+    },
+    {
+      "name": "John",
+      "gender": "Male",
+      "age": 32,
+      "address": "MG Road",
+      "city": "Chennai",
+      "country": "India",
+      "status": "Positive",
+      "id": 5
+    }
+  ]
+}
